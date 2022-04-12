@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://gonu923.github.io/csb-48o6se/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://gonu923.github.io/csb-48o6se/static/js/main.1edbe2e1.chunk.js",
-    "main.js.map": "https://gonu923.github.io/csb-48o6se/static/js/main.1edbe2e1.chunk.js.map",
+    "main.js": "https://gonu923.github.io/csb-48o6se/static/js/main.ac71acd6.chunk.js",
+    "main.js.map": "https://gonu923.github.io/csb-48o6se/static/js/main.ac71acd6.chunk.js.map",
     "runtime-main.js": "https://gonu923.github.io/csb-48o6se/static/js/runtime-main.9f9b6a91.js",
     "runtime-main.js.map": "https://gonu923.github.io/csb-48o6se/static/js/runtime-main.9f9b6a91.js.map",
     "static/js/2.e1f6dfca.chunk.js": "https://gonu923.github.io/csb-48o6se/static/js/2.e1f6dfca.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9f9b6a91.js",
     "static/js/2.e1f6dfca.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.1edbe2e1.chunk.js"
+    "static/js/main.ac71acd6.chunk.js"
   ]
 }
